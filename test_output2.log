@@ -1,0 +1,20 @@
+2016-03-30 19:36:10.947 XCTestObserver[18385:8768961] ApplePersistenceIgnoreState: Existing state will not be touched. New state will be written to /var/folders/96/rcjvzrkn5lzfl0_krn8c151h0000gn/T/com.phatblat.XCTestObserver.savedState
+Test Suite 'All tests' started at 2016-03-30 19:36:11.020
+Test Suite 'XCTestObserverTests.xctest' started at 2016-03-30 19:36:11.021
+Test Suite 'XCTestObserverTests' started at 2016-03-30 19:36:11.021
+Test Case '-[XCTestObserverTests testExample]' started.
+Test Case '-[XCTestObserverTests testExample]' passed (0.000 seconds).
+Test Case '-[XCTestObserverTests testPerformanceExample]' started.
+/Users/phatblat/dev/osx/XCTestObserver/XCTestObserverTests/XCTestObserverTests.m:34: Test Case '-[XCTestObserverTests testPerformanceExample]' measured [Time, seconds] average: 0.000, relative standard deviation: 71.000%, values: [0.000002, 0.000001, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+
+
+Test session log:
+	/Volumes/DerivedData/XCTestObserver-eafpwoqfzwyeftgttmrarfwqpntm/Logs/Test/80F8A6D1-06C0-4A24-9655-6B5B5483E050/Session-2016-03-30_19:36:08-aL17Pq.log
+
+Test Case '-[XCTestObserverTests testPerformanceExample]' passed (0.413 seconds).
+Test Suite 'XCTestObserverTests' passed at 2016-03-30 19:36:11.436.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 0.414 (0.415) seconds
+Test Suite 'XCTestObserverTests.xctest' passed at 2016-03-30 19:36:11.436.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 0.414 (0.415) seconds
+Test Suite 'All tests' passed at 2016-03-30 19:36:11.437.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 0.414 (0.416) seconds
