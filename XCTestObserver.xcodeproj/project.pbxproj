@@ -12,6 +12,7 @@
 		F8B4322A1CACB040007B7BE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8B432291CACB040007B7BE3 /* Assets.xcassets */; };
 		F8B4322D1CACB040007B7BE3 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = F8B4322B1CACB040007B7BE3 /* MainMenu.xib */; };
 		F8B432381CACB040007B7BE3 /* XCTestObserverTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B432371CACB040007B7BE3 /* XCTestObserverTests.m */; };
+		F8B432441CACB1B5007B7BE3 /* TestObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B432431CACB1B5007B7BE3 /* TestObserver.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,8 @@
 		F8B432331CACB040007B7BE3 /* XCTestObserverTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XCTestObserverTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8B432371CACB040007B7BE3 /* XCTestObserverTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XCTestObserverTests.m; sourceTree = "<group>"; };
 		F8B432391CACB040007B7BE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8B432421CACB1B5007B7BE3 /* TestObserver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestObserver.h; sourceTree = "<group>"; };
+		F8B432431CACB1B5007B7BE3 /* TestObserver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestObserver.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,8 @@
 				F8B4322B1CACB040007B7BE3 /* MainMenu.xib */,
 				F8B4322E1CACB040007B7BE3 /* Info.plist */,
 				F8B432261CACB040007B7BE3 /* Supporting Files */,
+				F8B432421CACB1B5007B7BE3 /* TestObserver.h */,
+				F8B432431CACB1B5007B7BE3 /* TestObserver.m */,
 			);
 			path = XCTestObserver;
 			sourceTree = "<group>";
@@ -202,6 +207,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8B432441CACB1B5007B7BE3 /* TestObserver.m in Sources */,
 				F8B432281CACB040007B7BE3 /* main.m in Sources */,
 				F8B432251CACB040007B7BE3 /* AppDelegate.m in Sources */,
 			);
